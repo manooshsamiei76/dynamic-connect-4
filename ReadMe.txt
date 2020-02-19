@@ -1,4 +1,4 @@
-AI-remote: is only for the tournament cases, it  has not been adapted for various initial states. It connects to game sever via Telnet connection. 
+AI-remote.py: is only for the tournament, it connects to game sever via Telnet connection and can play with another agent through server. 
 
 To test the performance of the agent on various initial states use AI-human.py file. 
 
